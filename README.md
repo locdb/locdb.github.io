@@ -35,20 +35,20 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 ## Project partners
 
-![Mannheim University Librarz](logos/ubma-logo.gif)
+![Mannheim University Librarz](logos/ubma-logo.gif){:height="42px"}
 
-![Leibniz Information Centre for Economics](logos/logo-zbw-lang.gif)
+![Leibniz Information Centre for Economics](logos/logo-zbw-lang.gif){:height="42px"}
 
-![Hochschule der Medien](logos/hdm-logo.gif)
+![Hochschule der Medien](logos/hdm-logo.gif){:height="42px"}
 
-![Deutsches Forschungsinstitut für Künstliche Intelligenz](logos/DFKI_Schrift_de.gif)
+![Deutsches Forschungsinstitut für Künstliche Intelligenz](logos/DFKI_Schrift_de.gif){:height="42px"}
 
 
 ## Funded by
 
 Deutsche Forschungsgemeinschaft (DFG)
 
-![DFG Logo](logos/dfg_logo_blau.gif)
+![DFG Logo](logos/dfg_logo_blau.gif){:height="42px"}
 
 
 
