@@ -13,7 +13,7 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 ## Back-end setup
 
-1. Install [MongoDB](https://www.mongodb.com/)
+1. Install [MongoDB](https://www.mongodb.com/).
 
 2. `git clone https://github.com/locdb/loc-db`
 
@@ -28,6 +28,8 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 1. `git clone https://github.com/locdb/locdb-frend`
 
 2. `cd locdb-friend && npm install`
+
+3. Edit `src/app/locdb.service.ts`, such that `private locdbUrl` points to the back-end.
 
 3. `ng serve`
 
