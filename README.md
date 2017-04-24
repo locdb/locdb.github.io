@@ -13,10 +13,22 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 ## Back-end setup
 
-to be filled
+1. Install [MongoDB](https://www.mongodb.com/)
+
+2. `git clone https://github.com/locdb/loc-db`
+
+3. `cd loc-db && npm install`
+
+4. `swagger project start`
+
 
 
 ## Front-end setup
 
-to be filled
+1. `git clone https://github.com/locdb/locdb-frend`
+
+2. `cd locdb-friend && npm install`
+
+3. `ng serve`
+
 
