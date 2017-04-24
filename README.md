@@ -33,4 +33,23 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 3. `ng serve`
 
+## Project partners
+
+
+![https://locdb.bib.uni-mannheim.de/wordpress/wp-content/uploads/2016/10/ubma-logo.gif](Mannheim University Librarz)
+
+![https://locdb.bib.uni-mannheim.de/wordpress/wp-content/uploads/2016/10/logo-zbw-lang.gif](Leibniz Information Centre for Economics)
+
+![https://locdb.bib.uni-mannheim.de/wordpress/wp-content/uploads/2016/10/hdm-logo.gif](Hochschule der Medien)
+
+![https://locdb.bib.uni-mannheim.de/wordpress/wp-content/uploads/2016/10/DFKI_Schrift_de.gif](Deutsches Forschungsinstitut für Künstliche Intelligenz)
+
+
+## Funded by
+Deutsche Forschungsgemeinschaft (DFG)
+
+![https://locdb.bib.uni-mannheim.de/wordpress/wp-content/uploads/2016/10/dfg_logo_blau.gif](DFG Logo)
+
+
+
 
