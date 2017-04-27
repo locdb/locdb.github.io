@@ -35,20 +35,20 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 ## Project partners
 
-<img src="logos/ubma-logo.gif" heigth="84">
+<img src="logos/ubma-logo.gif" alt="UB Mannheim logo" height="84">
 
-<img src="logos/logo-zbw-lang.gif" heigth="42">
+<img src="logos/logo-zbw-lang.gif" alt="ZBW logo" height="42">
 
-<img src="logos/hdm-logo.gif" heigth="42">
+<img src="logos/hdm-logo.gif" alt="HdM logo" height="42">
 
-<img src="logos/DFKI_Schrift_de.gif" heigth="42">
+<img src="logos/DFKI_Schrift_de.gif" alt="DFKI logo" height="42">
 
 
 ## Funded by
 
 Deutsche Forschungsgemeinschaft (DFG)
 
-<img src="logos/dfg_logo_blau.gif" heigth="42">
+<img src="logos/dfg_logo_blau.gif" alt="DFG logo" height="42">
 
 
 
