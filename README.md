@@ -29,9 +29,9 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 2. `cd locdb-friend && npm install`
 
-3. Edit `src/app/locdb.service.ts`, such that `private locdbUrl` points to the back-end.
+3. Edit `src/app/environments/environment*.ts` file(s), such that `locdbUrl` points to the respective back-end.
 
-3. `ng serve`
+3. Run `ng serve` will use the `locdbUrl` from `environment.ts` as default, else if `-env prod` is given, `environment.prod.ts`.
 
 ## Project partners
 
