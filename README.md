@@ -29,26 +29,26 @@ Check the LOC-DB [blog](https://locdb.bib.uni-mannheim.de/blog/en/) for more inf
 
 2. `cd locdb-friend && npm install`
 
-3. Edit `src/app/locdb.service.ts`, such that `private locdbUrl` points to the back-end.
+3. Edit `src/app/environments/environment*.ts` file(s), such that `locdbUrl` points to the respective back-end.
 
-3. `ng serve`
+3. Run `ng serve` will use the `locdbUrl` from `environment.ts` as default, else if `-env prod` is given, `environment.prod.ts`.
 
 ## Project partners
 
-![Mannheim University Librarz](logos/ubma-logo.gif){:height="42px"}
+<img src="logos/ubma-logo.gif" alt="UB Mannheim logo" height="84">
 
-![Leibniz Information Centre for Economics](logos/logo-zbw-lang.gif){:height="42px"}
+<img src="logos/logo-zbw-lang.gif" alt="ZBW logo" height="42">
 
-![Hochschule der Medien](logos/hdm-logo.gif){:height="42px"}
+<img src="logos/hdm-logo.gif" alt="HdM logo" height="42">
 
-![Deutsches Forschungsinstitut für Künstliche Intelligenz](logos/DFKI_Schrift_de.gif){:height="42px"}
+<img src="logos/DFKI_Schrift_de.gif" alt="DFKI logo" height="42">
 
 
 ## Funded by
 
 Deutsche Forschungsgemeinschaft (DFG)
 
-![DFG Logo](logos/dfg_logo_blau.gif){:height="42px"}
+<img src="logos/dfg_logo_blau.gif" alt="DFG logo" height="42">
 
 
 
